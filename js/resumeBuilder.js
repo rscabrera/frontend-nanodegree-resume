@@ -24,7 +24,7 @@ var bio = {
   'contacts': {
     'mobile': "<a href='tel:5555555555'>555.555.5555</a>",
     'email': "<a href='mailto:rscabrera@gmail.com'>rscabrera@gmail.com</a>",
-    // 'linkedin': "<a href='http://bit.ly/1N09KFX'>Robert Cabrera</a>",
+    'linkedin': "<a href='http://bit.ly/1N09KFX'>Robert Cabrera</a>",
     'github': "<a href='http://bit.ly/1qBLErD'>rscabrera</a>",
     'twitter': "<a href='http://bit.ly/1qd8Yv3'>@rs_cabrera</a>",
     'location': "<a href='#'>Houston, TX</a>"
