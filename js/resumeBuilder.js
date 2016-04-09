@@ -63,13 +63,13 @@ var education = {
      'dates': 1998,
      'url': 'http://1.usa.gov/1SVHcg7'
 	 },
-		{'name': 'Western Governors University',
-		 'location': 'Salt Lake City, UT',
-		 'degree': 'Bachelor of Science',
-		 'majors': ['Computer Science'],
-		 'dates': 2016,
-		 'url': 'http://www.wgu.edu'
-		}
+	{'name': 'Western Governors University',
+	 'location': 'Salt Lake City, UT',
+	 'degree': 'Bachelor of Science',
+	 'majors': ['Computer Science'],
+	 'dates': 2016,
+	 'url': 'http://www.wgu.edu'
+	}
   ],
   'onlineCourses': [
     {'title': 'Front-End Nanodegree',
